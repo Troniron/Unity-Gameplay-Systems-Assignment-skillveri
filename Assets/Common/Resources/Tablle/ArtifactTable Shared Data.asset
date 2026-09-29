@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ArtifactTable Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: ArtifactTable
+  m_TableCollectionNameGuidString: e3c6e10216dd1e348ac001c43d24f078
+  m_Entries:
+  - m_Id: 51884937216
+    m_Key: pellet_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 293699145728
+    m_Key: pellet_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441212817408
+    m_Key: divine_tear_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 524557832192
+    m_Key: divine_tear_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8454334140416
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52648025083904
+    m_Key: close_X
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5690668221596958985
+  references:
+    version: 2
+    RefIds:
+    - rid: 5690668221596958985
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1790640943264

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: ArtifactTable
+  m_EditorClassIdentifier: Unity.Localization.Editor::UnityEditor.Localization.StringTableCollection
+  m_SharedTableData: {fileID: 11400000, guid: e3c6e10216dd1e348ac001c43d24f078, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 6da58647e8786084281b9651184051ed, type: 2}
+  - {fileID: 11400000, guid: 1fe19e71200903f40b2b52608a2a424f, type: 2}
+  - {fileID: 11400000, guid: d9e4f6c9ee4627e46be17d5ec6f60ac6, type: 2}
+  - {fileID: 11400000, guid: 8782ab7478210c54fb0b4c77294c3c1f, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []
