@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: fc0985ff8dc69984e9221454d89c14ba
+  m_SerializeEntries:
+  - m_GUID: e3c6e10216dd1e348ac001c43d24f078
+    m_Address: Assets/Common/Resources/Tablle/ArtifactTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b3476aa46e707dc43be20657ee5b6b4a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ae8c4d8a180aa884cb52a6c2a32668af, type: 2}
+    - {fileID: 11400000, guid: 2c99599d12d91d149a30acad552c49e9, type: 2}
+    - {fileID: 11400000, guid: 845066295b229754bbd64a6d33707655, type: 2}
